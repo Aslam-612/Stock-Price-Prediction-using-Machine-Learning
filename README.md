@@ -64,13 +64,11 @@ This project predicts the \*\*next day's stock closing price\*\* using Linear Re
 
 
 
-\## 📷 Output Graph (Example)
+\## 📷 Output Graph
 
 
-
-> \*(Add an image here if you saved your plot)\*
-
-> !\[Prediction Graph](sample\_output.png)
+> !\(output 1.png)
+> !\[Prediction Graph](output 2.png)
 
 
 
